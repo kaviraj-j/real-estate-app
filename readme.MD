@@ -18,7 +18,7 @@ This is a MERN stack app with a Vite-based client and a Node-based server, integ
 
 1. Clone the Repository
 
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/kaviraj-j/real-estate-app.git
 
 2. Client Setup
     ```
