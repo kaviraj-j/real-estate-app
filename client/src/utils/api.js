@@ -3,7 +3,7 @@ import dayjs from "dayjs";
 import { toast } from "react-toastify";
 
 export const api = axios.create({
-  baseURL: "https://real-estate-app-65d2.onrender.com",
+  baseURL: "https://real-estate-app-65d2.onrender.com/api",
 });
 
 
