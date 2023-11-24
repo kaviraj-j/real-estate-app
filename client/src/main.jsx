@@ -10,9 +10,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-h5qcb7rzdx0k8liy.us.auth0.com"
      clientId="OmqMTZTlY4BmN0mW20wjwv7OctjJpPbA"
      authorizationParams={{
-      redirect_uri: " http://127.0.0.1:5173/"
+      redirect_uri: " https://real-estate-app-steel-six.vercel.app/"
      }}
-     audience="http://localhost:8000"
+     audience="https://real-estate-app-65d2.onrender.com"
      scope="openid profile email"
     >
       <App />
